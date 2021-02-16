@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.11](https://www.github.com/googleapis/java-mediatranslation/compare/v0.2.10...v0.2.11) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#216](https://www.github.com/googleapis/java-mediatranslation/issues/216)) ([bbe7c7e](https://www.github.com/googleapis/java-mediatranslation/commit/bbe7c7e43bbf980b0fbe4fe2bcd11a2a32386890))
+
 ### [0.2.10](https://www.github.com/googleapis/java-mediatranslation/compare/v0.2.9...v0.2.10) (2021-01-14)
 
 
